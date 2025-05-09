@@ -32,7 +32,7 @@ Joki Tugas Mahasiswa adalah marketplace yang menyediakan platform untuk mahasisw
 - **Hosting**: Heroku, Vercel (Frontend)
 
 ## Cara Menggunakan Platform:
-1. **Konsultasi**:Diskusikan kebutuhan Anda dengan tim kami untuk mendapatkan estimasi harga dan waktu pengerjaan yang akurat.
+1. **Konsultasi** Diskusikan kebutuhan Anda dengan tim kami untuk mendapatkan estimasi harga dan waktu pengerjaan yang akurat.
 2. **Pembayaran** Lakukan pembayaran uang muka untuk memulai proses pengerjaan proyek Anda.
 3. **Pengerjaan** Tim ahli kami akan mulai mengerjakan tugas atau proyek Anda dengan standar kualitas tertinggi.
 4. **Revisi** Dapatkan hasil pekerjaan dan ajukan revisi jika diperlukan sesuai dengan paket yang Anda pilih.
