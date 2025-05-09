@@ -63,7 +63,7 @@ type FormValues = {
 const Payment = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [showConfirmation, setShowConfirmation] = useState(false);
-  const [orderDetails, setOrderDetails] = useState<any>(null);
+  const [orderDetails, setOrderDetails] = useState(null);
   const navigate = useNavigate();
 
   const searchParams = new URLSearchParams(window.location.search);
