@@ -70,9 +70,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-lg mb-4">Hubungi Kami</h4>
             <p className="text-muted-foreground mb-4">
-              Email: info@jokitugas.com
+              Email: Risskiananda90@gmail.com
               <br />
-              Telp: +62-811-2233-4455
+              Telp: +6283188186757
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-muted-foreground hover:text-foreground transition-colors">
@@ -88,7 +88,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t mt-8 pt-8 text-center text-muted-foreground">
-          <p>&copy; {currentYear} JokiTugas. All rights reserved.</p>
+          <p>&copy; {currentYear} JokiTugas.</p>
         </div>
       </div>
     </footer>
